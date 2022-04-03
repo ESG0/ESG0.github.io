@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: esg0.github.io
+Token: 415ed15cf3abbc70ac93ab20c6eff7c2134c55b61132b7f3241dd2827c1e18e6
