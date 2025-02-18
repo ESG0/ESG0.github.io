@@ -1,2 +1,2 @@
 # ESG0.github.io
-front facing webpage for javascritp prototyping
+front facing webpage for test business
